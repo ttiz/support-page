@@ -84,7 +84,7 @@ support-page
 |   |-- 9.3-decsriptors.ipynb
 |   `-- 9.4-histamine-antagonist-screening.ipynb
 |-- references      # 文献を保存しておくフォルダ
-|-- results         # 解析結果の図を保存しておくフォルダ。必要に応じてサブフォルダを作る
+|-- results         # 解析結果の図を保存しておくフォルダ。必要に応じてサブフォルダを作る。無いとエラーがでる。
 `-- src             # Jupyter Notebookで実行すべきではない重い処理や
     |               #   何度も実行する処理をスクリプトにまとめて保存するフォルダ
     |-- from_root.py
